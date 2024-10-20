@@ -1,0 +1,43 @@
+[
+  {
+    "name": "퍼포먼스",
+    "first": 3,
+    "second": null,
+    "third": null
+  },
+  {
+    "name": "줄다리기",
+    "first": null,
+    "second": null,
+    "third": null
+  },
+  {
+    "name": "줄넘기",
+    "first": null,
+    "second": null,
+    "third": null
+  },
+  {
+    "name": "태풍의 눈",
+    "first": null,
+    "second": null,
+    "third": null
+  },
+  {
+    "name": "계주",
+    "first": null,
+    "second": null,
+    "third": null
+  },
+  {
+    "name": "랜덤 플레이 댄스",
+    "type": "custom",
+    "scores": {}
+  },
+  {
+    "name": "배구",
+    "first": null,
+    "second": null,
+    "third": null
+  }
+]
