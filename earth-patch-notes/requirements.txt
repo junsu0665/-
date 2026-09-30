@@ -1,0 +1,9 @@
+anthropic>=1.9.0
+pydantic>=2.7
+requests>=2.31
+edge-tts>=7.0
+pillow>=10.0
+imageio-ffmpeg>=0.5
+google-api-python-client>=2.130
+google-auth-oauthlib>=1.2
+python-dotenv>=1.0

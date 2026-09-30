@@ -1,0 +1,46 @@
+{
+  "topic": "중력이 10,000배가 되었습니다",
+  "patch_title": "중력 10,000배 상향",
+  "patch_lines": [
+    "[물리] 지구 중력 가속도 9.8 → 98,000 m/s²",
+    "[지형] 산 최대 높이 약 1m로 하향",
+    "[알려진 문제] 달이 궤도에서 이탈함"
+  ],
+  "intro_narration": "지구 패치노트 1.0.1. 중력이 만 배가 되었습니다.",
+  "scenes": [
+    {
+      "narration": "패치 적용 직후. 몸무게 칠십 킬로그램인 사람의 무게는 칠백 톤. 버스 약 육십 대를 짊어진 셈이라, 아무도 서 있을 수 없습니다.",
+      "image_prompt": "Empty city street at dawn seen from a low angle, parked cars and street lamps, an invisible immense force pressing everything downward, asphalt cracking, cinematic, photorealistic, dramatic lighting, 35mm, vertical composition",
+      "motion_prompt": "Cars suddenly slam flat against the asphalt, street lamps bend to the ground, dust bursts outward, subtle camera shake, slow push-in"
+    },
+    {
+      "narration": "영 점 일 초 뒤. 건물들이 자기 무게를 못 이기고 무너집니다. 일 미터 높이에서 떨어진 물건은 영 점 영영오 초 만에 바닥에 닿아요.",
+      "image_prompt": "Skyline of glass skyscrapers under a pale sky, seen from a rooftop across the street, cinematic, photorealistic, dramatic lighting, 35mm, vertical composition",
+      "motion_prompt": "The skyscrapers collapse straight downward as if crushed by a giant invisible press, floors pancaking in rapid succession, huge dust clouds rolling, camera slowly tilts down"
+    },
+    {
+      "narration": "몇 초 뒤. 하늘이 땅바닥으로 짓눌립니다. 수십 킬로미터 두께였던 대기가 몇 미터 두께로 압축되고, 압축열로 지표가 달아오릅니다.",
+      "image_prompt": "Wide landscape where the entire sky has collapsed into a thin glowing layer of dense haze hugging the ground, black space visible above, cinematic, photorealistic, eerie lighting, 35mm, vertical composition",
+      "motion_prompt": "Clouds rush downward and flatten into a glowing orange layer near the ground, the sky above turns black and starry, heat shimmer, slow aerial drift"
+    },
+    {
+      "narration": "몇 분 뒤. 산들이 자기 무게에 부서져 내려앉습니다. 이 중력에선 가장 높은 산도 일 미터를 넘기 힘들어요. 지구가 당구공처럼 매끈해집니다.",
+      "image_prompt": "Majestic snowy mountain range at sunset, towering peaks, cinematic, photorealistic, dramatic lighting, 35mm, vertical composition",
+      "motion_prompt": "The mountain peaks crumble and slump downward into rubble, avalanches of rock spreading outward until the land becomes almost flat, slow wide aerial pull-back"
+    },
+    {
+      "narration": "한 시간 남짓 뒤. 궤도를 유지할 속도가 모자란 달이 지구로 떨어집니다. 가까워질수록 조석력에 찢겨 거대한 고리가 되고, 파편이 비처럼 쏟아지죠.",
+      "image_prompt": "The Moon looming enormous in a black sky above a dark Earth horizon, surface cracking with glowing fractures, cinematic, photorealistic, space lighting, 35mm, vertical composition",
+      "motion_prompt": "The Moon grows larger as it falls toward Earth, cracks spread across it, it breaks apart into a stream of rocky fragments forming a bright ring, fiery meteors streak down, slow push-in"
+    },
+    {
+      "narration": "마지막으로 지구 자체가 짓눌립니다. 중력 결합 에너지는 태양이 약 이백 년 동안 내는 에너지 수준. 조금만 압축돼도 나오는 열이 지구 전체를 녹이고도 남습니다.",
+      "image_prompt": "Planet Earth seen from space, continents glowing with spreading cracks of molten lava, thin debris ring around it, cinematic, photorealistic, dramatic lighting, vertical composition",
+      "motion_prompt": "The planet slightly shrinks and pulses as glowing lava cracks spread across the whole surface until it becomes a molten fireball, slow orbit camera move"
+    }
+  ],
+  "outro_narration": "패치 일 점 영 점 일, 긴급 롤백해야 할까요? 댓글로 투표해주세요.",
+  "youtube_title": "지구 패치노트 1.0.1: 중력이 10,000배가 되었습니다 😱 #shorts",
+  "youtube_description": "지구에 중력 10,000배 패치가 적용되면 무슨 일이 벌어질까?\n무게는 만 배, 대기는 몇 미터 두께로 압축, 산은 1m 이하로 무너지고 달은 한 시간 남짓 만에 추락합니다.\n산의 최대 높이는 중력에 반비례하고, 달은 로슈 한계 안쪽으로 들어오면 조석력에 찢어집니다.\n#과학 #지구패치노트 #중력 #만약에 #shorts\n※ 이 영상의 장면은 AI로 생성되었습니다.",
+  "tags": ["지구 패치노트", "과학", "중력", "만약에", "과학 쇼츠", "물리", "우주", "달", "로슈 한계", "what if", "gravity", "science", "shorts"]
+}
